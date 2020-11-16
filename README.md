@@ -27,4 +27,4 @@ PyTorch를 처음 쓰는 사람들을 위한 실전 튜토리얼 입니다.
 ## Getting Started
 - [Google Colab](https://colab.research.google.com)
 
-즐딥 :)
+
